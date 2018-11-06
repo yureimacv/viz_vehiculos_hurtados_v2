@@ -10,7 +10,7 @@ DATASET y ATRIBUTOS:
 El tipo de  es una TABLA TEMPORAL con los siguientes atributos:
   * Fecha: Atributo que describe la fecha de robo del vehículo. Tipo: Cuantitativa secuencial.
   * Marca: Referencia o marca del vehículo. Tipo: Categórica.
-  * Línea: Referencia específica (depende de la marca).
+  * Línea: Referencia específica (depende de la marca). Tipo: Categórica.
   * Modelo: Modelo del vehículo robado. Tipo: Categórica.
   * Municipio: Ciudad en donde se presentó el robo. Tipo: Categórica.
   * Departamento: Departamento donde se presentó el robo. Tipo: Categórica.
