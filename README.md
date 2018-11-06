@@ -36,7 +36,7 @@ TAREAS SECUNDARIAS
 Se basa en marcas de línea expresando el valor de la sumatoria de los registros de vehículos robados en el eje Y, con barras separadas en el eje X por la categoría modelo con código de tamaño de altura por el valor del atributo año. [ENCODE-EXPRESS, SEPARATE-ORDER-ALIGN]
 
   * Visualización: TREE MAP – Municipio
-Expresa por tamaño de áreas el número de registros de vehículos hurtados registrados, en cada municipio por estructura jerarquica del departamento a donde corresponde. [ENCODE-EXPRESS, ENCODE-SEPARATE-ORDEN-ALIGN]
+Expresa por tamaño de áreas el número de registros de vehículos hurtados registrados, en cada municipio por estructura jerarquica del departamento a donde corresponde. [ENCODE-SEPARATE-ORDEN-ALIGN]
 
   * Visualización: Bar Chart – Color
 Se basa en marcas de línea expresando el número de registros de vehículos hurtados registrados en el eje X, con alineación en la posición espacial horizontal, separadas por el atributo (COLOR) con la posición espacial vertical ordenada descendentemente por frecuencia. [ENCODE-EXPRESS, ENCODE-SEPARATE-ORDEN-ALIGN]
